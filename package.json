@@ -1,0 +1,29 @@
+{
+  "name": "react-native-wheel-picker-android-maren-tech-maren-tech",
+  "version": "3.0.0",
+  "description": "Simple Wheel Picker for Android to use with react-native",
+  "main": "index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjithmsk/react-native-wheel-picker-android-maren-tech.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "picker",
+    "wheel-picker",
+    "date-picker",
+    "date-wheel-picker"
+  ],
+  "author": "Sanjith msk sanjithmsk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanjithmsk/react-native-wheel-picker-android-maren-tech/issues"
+  },
+  "homepage": "https://github.com/sanjithmsk/react-native-wheel-picker-android-maren-tech",
+  "dependencies": {
+    "@react-native-community/picker": "^1.8.0",
+    "moment": "^2.24.0"
+  }
+}
